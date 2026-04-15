@@ -3,7 +3,7 @@ Strategy Engine: Monte Carlo Pit-Stop Optimizer for F1
 
 Overview
 --------
-This project implements a production-grade Monte Carlo calculator for optimizing F1 pit-stop strategies using FastF1, NumPy, pandas, and scikit-learn. It fits simple degradation models per tyre compound, learns pit-lane loss distributions (green vs. neutralized), estimates safety-car/virtual-SC hazards, and simulates candidate 1-stop and 2-stop strategies to recommend the fastest expected race time with uncertainty bands.
+This project implements a Monte Carlo calculator for optimizing F1 pit-stop strategies using FastF1, NumPy, pandas, and scikit-learn. It fits simple degradation models per tyre compound, learns pit-lane loss distributions (green vs. neutralized), estimates safety-car/virtual-SC hazards, and simulates candidate 1-stop and 2-stop strategies to recommend the fastest expected race time with uncertainty bands.
 
 Quickstart
 ----------
